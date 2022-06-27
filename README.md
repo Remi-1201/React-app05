@@ -2,6 +2,7 @@
 
 1. Inline Styles
 2. CSS Modules
+3. Styled JSX
 
 ## 成果
 
